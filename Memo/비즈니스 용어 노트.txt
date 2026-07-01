@@ -1,0 +1,15 @@
+Pre-A(프리A) 투자는 시드(Seed) 단계와 시리즈A(Series A) 단계 사이의 브릿지 라운드로, 본격적인 대규모 투자 유치 전 제품/서비스의 시장 검증과 초기 사업 지표를 증명하는 단계
+
+ARR (Annual Recurring Revenue) 연간 반복 매출 : 고객들의 구독을 통해 1년 동안 고정적으로 벌어들일 수 있는 예상 매출
+
+ SaaS(Software as a Service) :  서비스형 소프트웨어, 구독 서비스 :
+소프트웨어를 기기에 직접 설치하지 않고, 클라우드 서버에 접속해 인터넷 브라우저나 앱을 통해 빌려 쓰는 형태의 클라우드 컴퓨팅 서비스
+ - 주요 구독 요금제(Pricing Model) : 사용자당 과금 (Per-Seat), 사용량 기반 과금 (Usage-based), 티어/단계별 과금 (Tiered)
+
+DaaS(Desktop as a Service, 서비스형 데스크탑) : 클라우드에서 가상 데스크톱 환경을 사용자에게 제공하는 서비스
+
+PaaS (Platform as a Service, 서비스형 플랫폼)
+IaaS (Infrastructure as a Service, 서비스형 인프라)
+CaaS (Containers as a Service)
+
+트레이드 오프(Trade-off)는 하나의 목표를 달성하거나 이득을 얻기 위해, 다른 목표나 가치를 희생해야 하는 상충 관계
