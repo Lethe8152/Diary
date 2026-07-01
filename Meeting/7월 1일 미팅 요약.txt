@@ -1,0 +1,29 @@
+<7월 1일 미팅 요약>
+1. skill
+2. agent
+3. MCP
+4. 부가적으로 https://www.anthropic.com/learn/claude-for-work & https://www.anthropic.com/learn/build-with-claude
+에서 선택적으로 찾아보기
+5. 회사에서 사용할 표준모델(매뉴얼)을 만들어야 함.
+- claude work를 사용해서 자동화되고 체계적인 정리가 가능하도록.
+- 어떤 툴을 기준으로 사용할 것인지.
+
+<설명>
+업무를 같이 하려면 claude 에이전트 스킬(메뉴얼) 이 있어야 하는데
+프롬프트 : 입력하는 것들
+
+반복되는 업무나 레거시를 쌓아서 해야 할 것이 있으면 스킬을 활용하면 좋겠지
+>> 공부해야 한다.
+
+MCP( 모델 컨텍스트 프로토콜) >> 공부해야함
+
+https://www.anthropic.com/learn/claude-for-work
+- Skills
+- Tools & Integrations
+- Artifacts
+
+
+https://anthropic.skilljar.com/introduction-to-agent-skills
+
+https://www.anthropic.com/learn/build-with-claude
+이건 필요한 것만
